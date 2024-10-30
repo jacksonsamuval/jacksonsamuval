@@ -32,4 +32,6 @@ I believe in writing **clean, maintainable code** that aligns with best practice
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/c-jackson-samuval-129192259/)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/c-jackson-samuval-129192259/).
+
+Thank You.
